@@ -1,4 +1,4 @@
-# Game-projects
+# Game-Design-1-projects
 
 
 The following is a google drive link for my Game Design 1 Final Project
